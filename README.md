@@ -2,7 +2,7 @@
 ## Prototipação
  * [TaskUninter simulação atualizada](https://gracetorresleite.github.io/Uninter_Angular/src/app/list/list.component.html)
  
- #### <img src="/src/app/list/img/app.png" width="250" height="250">
+ #### <img src="/src/app/list/img/app.png" width="450" height="450">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 

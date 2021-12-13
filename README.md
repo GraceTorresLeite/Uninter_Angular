@@ -1,6 +1,7 @@
-# TaskUninter
+# <img src="/src/app/list/img/logo_uninter.png" width="50" height="50"> TaskUninter 
 ## Prototipação
  * [TaskUninter simulação atualizada](https://gracetorresleite.github.io/Uninter_Angular/src/app/list/list.component.html)
+ <img src="/src/app/list/img/app.png" width="150" height="150">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
